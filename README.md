@@ -11,6 +11,13 @@ and also create the sub routes examples
 first we need to install the dependencies for Fluent UI
 
 ```bash
+React version  - "react": "^18.2.0",
+Node version - "node": "v23.10.0",
+npm version - "npm": "10.9.2",
+yarn version - 1.22.19
+
+then we need to install the Fluent UI dependencies
+
 "@fluentui/react": "^8.119.1",
 "@fluentui/react-components": "^9.54.4",
 "@uifabric/react-cards": "^0.119.27",
